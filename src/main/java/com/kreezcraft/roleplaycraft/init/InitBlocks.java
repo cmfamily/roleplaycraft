@@ -11,5 +11,6 @@ import net.minecraft.block.material.Material;
 public class InitBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
-	public static final Block RainbowBlock = new BlockBase(Material.IRON,"rainbowblock").setHardness(10f); 
+	public static final Block RainbowBlock = new BlockBase(Material.IRON,"rainbowblock").setHardness(10f);
+
 }
